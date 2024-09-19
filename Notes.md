@@ -21,7 +21,7 @@
 # Bundler 
 - Most important package in any project!!
 - What is a bundler? Bundler is a package that helps you compress, package your app so it can be shipped to production.
-- Examples of bundlers, webpack, babbel, parcel. All bundlers are about the same and its a matter of choice.
+- Examples of bundlers include, webpack, parcel, rolup, browserify. All bundlers are about the same and its a matter of choice.
 - Bundlers essetnially give super powers to your application. We get bundlers as NPM packages.
 
 - Types of dependencies
@@ -309,3 +309,33 @@ inside it.
 3) Makes code simple and elegant
 4) Show more useful errors and warnings
 5) JSX prevents code injections (attacks)
+
+# Episode # 4
+
+# Planning for the UI
+
+1) Before we start coding, plan things out. Planning will make things easier to understand. We should know exactly what to build:
+    # Name the App
+    # UI Structure 
+        * Header
+            - Logo
+            - Nav Items
+        * Body 
+            - Search 
+            - Restaurant Container
+                - Restaurant Card
+                - Dish Name
+                - Image 
+                - Resturant Name
+                - Rating 
+                - Cuisines
+                - Time to Deliver
+        * Footer
+            - Copyright
+            - Links
+            - Address
+            - Contact 
+    
+
+
+
